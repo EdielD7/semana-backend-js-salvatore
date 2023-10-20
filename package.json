@@ -1,0 +1,19 @@
+{
+  "name": "semana-backend-js-salvatore",
+  "version": "1.0.0",
+  "description": "Projeto da Semana do Backend Javascript, da Salvatore Academy.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EdielD7/semana-backend-js-salvatore.git"
+  },
+  "author": "Ediel Santos",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EdielD7/semana-backend-js-salvatore/issues"
+  },
+  "homepage": "https://github.com/EdielD7/semana-backend-js-salvatore#readme"
+}
