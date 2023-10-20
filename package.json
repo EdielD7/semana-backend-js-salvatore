@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/EdielD7/semana-backend-js-salvatore/issues"
   },
-  "homepage": "https://github.com/EdielD7/semana-backend-js-salvatore#readme"
+  "homepage": "https://github.com/EdielD7/semana-backend-js-salvatore#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
